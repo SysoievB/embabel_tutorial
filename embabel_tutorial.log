@@ -1,0 +1,17 @@
+1776499314526:agents
+1776499435856:help
+1776499456063:models
+1776499484689:goals
+1776499634955:x "What is movement culture & who is Ido Portal?"
+1776500941516:models
+1776500944469:help
+1776500980552:x "What is movement culture & who is Ido Portal?"
+1776501147602:x "Write a blog post about movement culture"
+1776501242444:run BlogWriterAgent "Movement culture and Ido Portal"
+1776501261690:ollama pull llama3.1:8b
+1776501300205:run-agent --agent BlogWriterAgent --input "Movement culture and Ido Portal"
+1776501314636:help
+1776501482804:x "Write a blog post about Movement culture and Ido Portal"
+1776501795220:x "Explaine me sealed classes from java"
+1776502069062:x "What is phone"
+1776596895740:x "What are java sealed classes?"
